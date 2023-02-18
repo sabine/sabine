@@ -1,6 +1,6 @@
 ### 
 
-🐫 OCaml.org maintainer.
+🐫 OCaml.org maintainer at [Tarides](https://github.com/tarides).
 
 Currently coding mostly in 🐪 OCaml ☣️ HTML/CSS/JS 🦀 Rust 🫐 TypeScript ❤️ Svelte.
 
