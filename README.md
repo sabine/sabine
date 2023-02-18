@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+
+🐫 OCaml.org maintainer. I like when things just work and get a kick out of fixing and reimagining what is broken.
+
+Currently coding mostly in 🐪 OCaml ☣️ HTML/CSS/JS 🦀 Rust 🫐 TypeScript ❤️ Svelte.
+
 
 <!--
 **sabine/sabine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
