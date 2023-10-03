@@ -2,7 +2,7 @@
 
 Senior Software Engineer at [Tarides](https://github.com/tarides). 🐫 OCaml.org maintainer.
 
-Currently using mostly 🐪 OCaml ☣️ HTML/CSS/JS 🦀 Rust 🫐 TypeScript ❤️ Svelte.
+Currently using mostly 🐫 OCaml ☣️ HTML/CSS/JS 🦀 Rust 🫐 TypeScript ❤️ Svelte.
 
 I like when things just work and get a kick out of fixing and reimagining what is broken.
 
