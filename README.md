@@ -1,6 +1,6 @@
 ### 
 
-Senior Software Engineer at [Tarides](https://github.com/tarides). 🐫 OCaml.org maintainer.
+Principal Software Engineer at [Tarides](https://github.com/tarides). 🐫 OCaml.org maintainer.
 
 Currently using mostly 🐫 OCaml ☣️ HTML/CSS/JS 🦀 Rust 🫐 TypeScript ❤️ Svelte.
 
